@@ -44,5 +44,3 @@ Most orders are successfully delivered, with a minimal cancellation rate.
 
 
 
-
-Ask ChatGPT
