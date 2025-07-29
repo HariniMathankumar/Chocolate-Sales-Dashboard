@@ -22,7 +22,7 @@ Date Range Filter – Adjust the date range for dynamic insights.
 ## Dashboard Preview
 
 ### Tools & Technologies
-Power BI – Dashboard creation and visualization.
+Power BI – Dashboard creation and visualization | <a href="https://github.com/HariniMathankumar/Chocolate-Sales-Dashboard/blob/main/Screenshot%202025-07-29%20165457.png">Explore my Dashboard</a>
 
 Excel / CSV – Data source for analysis.
 
